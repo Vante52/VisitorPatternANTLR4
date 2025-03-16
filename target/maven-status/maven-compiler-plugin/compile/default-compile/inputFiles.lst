@@ -1,0 +1,8 @@
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/antlr4/com/teoria/analisis/AnalizadorSemantico.java
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/antlr4/com/teoria/analisis/EvaluadorVisitor.java
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/antlr4/com/teoria/analisis/Main.java
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/antlr4/com/teoria/miLenguaje/MilenguajeBaseVisitor.java
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/antlr4/com/teoria/miLenguaje/MilenguajeLexer.java
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/antlr4/com/teoria/miLenguaje/MilenguajeParser.java
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/antlr4/com/teoria/miLenguaje/MilenguajeVisitor.java
+/home/valkyrie/Documents/Javeriana/sem5/teoria/TallerLenguajesyGramaticas/src/main/java/org/example/Main.java
